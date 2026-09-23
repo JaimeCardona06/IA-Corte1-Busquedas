@@ -1,9 +1,9 @@
 # Actividad Final - Primer Corte (Inteligencia Artificial)
 
 ## Integrantes
-* **Nombre Completo 1** - *Código/Documento*
-* **Nombre Completo 2** - *Código/Documento*
-* **Nombre Completo 3** - *Código/Documento*
+* **Jaime Andrés Cardona Díaz**
+* **Mariana Lopez Florez**
+* **Mauricio Gonzales Carmona**
 
 ## Descripción del Proyecto
 Desarrollo de las actividades prácticas del primer corte sobre algoritmos de búsqueda:
@@ -22,7 +22,7 @@ búsqueda no informada (BFS/DFS), búsqueda informada, y búsqueda adversarial (
 
 - cd IA-Corte1-Busquedas
 
-2. Instalar las dependencias (opcional pero recomendado):
+2. Instalar las dependencias:
 
 - pip install -r requirements.txt
 
