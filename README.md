@@ -18,7 +18,7 @@ búsqueda no informada (BFS/DFS), búsqueda informada, y búsqueda adversarial (
 ## Instrucciones de Ejecución
 1. Clonar el repositorio: 
 
-- git clone https://github.com/TU_USUARIO/IA-Corte1-Busquedas.git
+- git clone https://github.com/JaimeCardona06/IA-Corte1-Busquedas.git
 
 - cd IA-Corte1-Busquedas
 
